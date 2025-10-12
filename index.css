@@ -5,7 +5,7 @@
 }
 .box1{
     width: 100%;
-    height: 653px;
+    height:100vh;
     background-color: aqua;
     background-image: url("img/bgc\ box1.jpg");
     background-size: 100% 100%;
@@ -21,11 +21,11 @@
 .box1 .p11{
     display: flex;
     width: 30%;
-    height: 505px;
+    height:80%;
     background-color:rgba(167,167,167,0.6);
 }
 .box1 .p12{
-    height: 505px;
+    height: 80%;
     border-radius: 10px;
     overflow: hidden;
     outline: 6px solid RGBA(227, 242, 253,0.4);
