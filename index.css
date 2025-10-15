@@ -23,6 +23,20 @@
     width: 30%;
     height:80%;
     background-color:rgba(167,167,167,0.6);
+    flex-direction: column-reverse;
+    justify-content: space-around;
+}
+.box1 .c111{
+    background-color: aqua;
+    height:55%;
+    width: 100%;
+}
+.box1 .g111{
+    width:40%;
+    height: 15%;
+    background-color: aliceblue;
+    margin: 10% ;
+    padding-top: 2%;
 }
 .box1 .p12{
     height: 80%;
@@ -32,7 +46,7 @@
 }
 .box1 .c12{
     width: 100%;
-    height: 170px;
+    height:45%;
     background-color: aqua;
     background-image: url("img/bgbox1.jpg");
     background-size: 100% 100%;
